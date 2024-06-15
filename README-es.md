@@ -2,7 +2,7 @@
 - [Español (Spanish)](README-es.md)
 - [English](README.md)
 
-## README: Microservicios de Gestión de Productos y Consumo REST
+## Microservicios de Gestión de Productos y Consumo REST
 
 Este proyecto implementa dos microservicios dentro de un mismo proyecto en Spring Boot: uno para gestionar operaciones CRUD en productos y otro para consumir este servicio utilizando RestTemplate.
 

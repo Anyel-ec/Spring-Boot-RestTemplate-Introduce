@@ -2,7 +2,7 @@
 - [Español (Spanish)](README-es.md)
 - [English](README.md)
 
-### README: Product Management and REST Consumer Microservices
+### Product Management and REST Consumer Microservices
 
 This project implements two microservices within a single Spring Boot project: one for CRUD operations on products and another for consuming this service using RestTemplate.
 
