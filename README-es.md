@@ -1,6 +1,25 @@
-### README: Microservicios de Gestión de Productos y Consumo REST
+# **Select Language:** 🌍
+- [Español (Spanish)](README-es.md)
+- [English](README.md)
+
+## README: Microservicios de Gestión de Productos y Consumo REST
 
 Este proyecto implementa dos microservicios dentro de un mismo proyecto en Spring Boot: uno para gestionar operaciones CRUD en productos y otro para consumir este servicio utilizando RestTemplate.
+
+## RESULTS
+## REST CONSUMER 
+### Documentación de Swagger
+![Alt text](docs/doc.PNG) 
+### Obtener todos los productos
+![Alt text](docs/getall.PNG) 
+### Obtener en json
+![Alt text](docs/json.PNG)
+### Obtener en objeto
+![Alt text](docs/objects.PNG)
+### Crear un producto
+![Alt text](docs/getall.PNG)
+### Actualizar un producto
+![Alt text](docs/put.PNG)
 
 #### Estructura del Proyecto
 
